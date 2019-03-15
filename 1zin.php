@@ -1,5 +1,5 @@
 <?php
-$domainuing = array('www.noscdn.com', 'www.skytivi.com', 'www.suntivi.com', 'www.noztv.com', 'www.tvsakeena.com', 'www.tvkicks.com', 'www.bisatv.com', 'www.soniktv.com', 'www.tvjava.com', 'www.tvfifa.com', 'www.tvball7.com', 'www.tvball7.xyz', 'www.indiostv.com',  'www.livebal.com', 'www.tvanda.com', 'www.shootgol.net', 'www.boomingtv.com', 'www.tvronaldo.com', 'www.tvnasional.com', );
+$domainuing = array('www.bosball.com', 'www.skytivi.com', 'www.suntivi.com', 'www.noztv.com', 'www.tvsakeena.com', 'www.tvkicks.com', 'www.bisatv.com', 'www.soniktv.com', 'www.tvjava.com', 'www.tvfifa.com', 'www.tvball7.com', 'www.tvball7.xyz', 'www.indiostv.com',  'www.livebal.com', 'www.tvanda.com', 'www.shootgol.net', 'www.boomingtv.com', 'www.tvronaldo.com', 'www.tvnasional.com', );
 if (!isset($_SERVER['HTTP_REFERER']))
 {
 	header("Location: http://www.lenzatv.com/");
